@@ -3,22 +3,22 @@
 ## 🚀 About Me
 Passionate developer and educator focused on **Java, MERN Stack, and Backend Development**.
 
-- 💡 Teach ICSE Java (Class 9–12)
-- 🧠 Strong focus on **output-based problem solving**
-- ⚙️ Building real-world projects (not just tutorials)
-- 🎯 Preparing for competitive exams with discipline system
+- 💡 ICSE Java educator (Class 9–12)  
+- 🧠 Strong focus on output-based problem solving  
+- ⚙️ Building real-world projects with practical execution  
+- 🎯 Preparing for competitive exams with disciplined learning approach  
 
-I believe in:
 > Consistency > Motivation  
 > Execution > Planning  
 
 ---
 
 ## 🌐 Connect With Me
-- 📸 Instagram: https://instagram.com/_.sdv_24
-- 💼 LinkedIn: (⚠️ Fix this link properly)
-- 📧 Email: shridayalverma896@gmail.com
-- 🐘 Mastodon: (Optional — remove if not active)
+- 📸 Instagram: https://instagram.com/_.sdv_24  
+- 💼 LinkedIn: https://www.linkedin.com/in/shri-dayal-verma-8366ab292  
+- 📧 Email: shridayalverma896@gmail.com  
+- 🐙 GitHub: https://github.com/sdverma24  
+- 📺 YouTube: https://www.youtube.com/@db_sdv  
 
 ---
 
@@ -39,42 +39,33 @@ Git | Postman | Vercel | Netlify | Nodemon
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sdverma24&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sdverma24&show_icons=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=sdverma24)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sdverma24)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdverma24&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sdverma24&layout=compact)
 
 ---
 
 ## 🏆 Achievements
-- 🎯 Teaching multiple students (Java + AI)
-- 📚 Creating structured learning content
-- 💻 MERN Stack learning + implementation
+- 🎯 Teaching Java and mentoring beginners  
+- 📚 Creating structured learning content  
+- 💻 Practicing MERN stack development  
+- 🧠 Strong focus on logic building  
 
 ---
 
 ## 📌 Current Focus
-- Backend Development (Node + APIs)
-- DSA Daily Practice
-- Real-world Projects (Dynamic UI + API)
-
----
-
-## ⚡ Projects (IMPORTANT — ADD THIS)
-👉 Add 3–5 strong projects here (very important)
-
-Example:
-- Student Management System (Java)
-- MERN Blog App
-- REST API Project
+- Backend Development (Node.js + Express + APIs)  
+- DSA daily practice  
+- Real-world project building  
 
 ---
 
 ## 🧠 Dev Philosophy
-> "Code samajh ke likho, copy karke nahi."
+> “Code with understanding, not memorization.”
 
 ---
 
-## 📈 Profile Views
-https://visitcount.itsvg.in/api?id=sdverma24
+## 👁️ Profile Views
+![Profile Views](https://visitcount.itsvg.in/api?id=sdverma24)
