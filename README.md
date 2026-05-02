@@ -83,13 +83,6 @@ I am a student, Java educator, and aspiring full-stack developer.
 - Practicing DSA daily  
 - Building small real-world projects  
 
----
-
-## 🏆 What I'm Working On
-
-- Student Management System (Java)  
-- ToDo App (JavaScript)  
-- Backend API basics  
 
 ---
 
@@ -107,4 +100,4 @@ I am a student, Java educator, and aspiring full-stack developer.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sdverma24&label=Profile%20Views&color=0e75b6&style=flat" />
-</p> MAKE IT MORE ATTRACTIVE AND ANIMTED 
+</p> 
