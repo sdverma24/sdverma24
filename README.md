@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a student, Java educator, and aspiring full-stack developer.
+I am a student, Java Instructor, and full-stack developer.
 
 ### 💡 Focus Areas
 - Java + OOP logic building  
