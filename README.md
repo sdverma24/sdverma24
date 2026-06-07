@@ -1,30 +1,73 @@
-<h1 align="center">Hi 👋, I'm Shri Dayal Verma (SDV)</h1>
+<h1 align="center">Shri Dayal Verma (SDV)</h1>
+<h3 align="center">Java Educator • MERN Developer • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Educator;MERN+Stack+Learner;Problem+Solver;Building+Real+Projects;Consistency+Over+Motivation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=I+Build+Real+Projects;I+Teach+Java+Deeply;Consistency+Over+Motivation;Future+Full+Stack+Engineer" />
 </p>
 
 ---
 
+## ⚡ Who Am I?
+
+- 🎓 Student + Java Instructor (ICSE Class 9–12)
+- 💻 MERN Stack Learner (Real Projects Focus)
+- 🧠 Daily DSA + Logic Building
+- 🎯 Mission: Become **Top 1% Developer + Educator**
+
+---
+
+## 🚀 What I Can Do
+
+✔ Teach Java from basics → advanced (OOP, logic building)  
+✔ Build full-stack apps (MERN - learning phase)  
+✔ Solve DSA problems with strong fundamentals  
+✔ Create educational tech content  
+
+---
+
+## 🧪 Projects (REAL PROOF)
+
+> 🚨 No projects = No credibility
+
+### 🔹 Student Performance Dashboard
+- React + Chart.js
+- Dynamic data visualization
+- Tracks topper / improvement
+
+### 🔹 Java Output Practice Platform
+- MCQ-based logic builder
+- Timer + options system
+- Designed for ICSE students
+
+### 🔹 Portfolio Website
+- Fully responsive UI
+- Hosted on Vercel
+- Clean modern design
+
+👉 (Add GitHub links here — compulsory)
+
+---
+
+## 📊 Skills
+
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,git,postman" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📈 Growth Stats
 
-I am a student, Java Instructor, and full-stack developer.
+- 📺 YouTube: 1K+ Subscribers  
+- 👨‍🏫 Students Taught: XX+  
+- 💻 Projects Built: X+  
+- 📚 DSA Practice: Daily  
 
-### 💡 Focus Areas
-- Java + OOP logic building  
-- Teaching ICSE Java (Class 9–12)  
-- Learning MERN stack step-by-step  
-- Building real-world small projects  
+👉 (Fill real numbers — no fake flex)
 
 ---
 
-## 🌐 Connect With Me (Animated Style)
+## 🌐 Connect
 
 <p align="center">
 
@@ -48,56 +91,16 @@ I am a student, Java Instructor, and full-stack developer.
 
 ---
 
-## ⚡ Tech Stack (Live Icons)
+## 🧠 Current Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,git,postman" />
-</p>
-
----
-
-## 📊 GitHub Stats (Live Cards)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdverma24&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdverma24&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdverma24&layout=compact&theme=tokyonight" />
-</p>
+- Backend (Node.js + Express)
+- DSA (Consistency Mode)
+- Real-world Projects (No Tutorial Hell)
 
 ---
 
-## 🧠 Current Learning Journey
+## ⚔️ Developer Rule
 
-<p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="250">
-</p>
-
-- Strengthening Java OOP concepts  
-- Learning backend (Node.js + Express)  
-- Practicing DSA daily  
-- Building small real-world projects  
-
+> “No shortcuts. Build → Break → Fix → Repeat.”
 
 ---
-
-## 🧭 Developer Mindset
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300">
-</p>
-
-> “Understand deeply, then code cleanly.”
-
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sdverma24&label=Profile%20Views&color=0e75b6&style=flat" />
-</p> 
